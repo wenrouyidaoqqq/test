@@ -1,0 +1,19 @@
+token:M9PsnRqNWNmpsChHPpthP9QNTt4CPQzz
+
+
+
+url:http://wechat.biohop.com/api.php?id=3
+
+appid:wxd2f2b61ed882c9bd
+
+http://192.168.0.76:8080/coreServlet/25a725ef4e07472b8d4483408062f5fd
+
+
+http://151ix34511.iask.in:31766/coreServlet?uuid=25a725ef4e07472b8d4483408062f5fd
+
+http://http://17d8y77432.51mypc.cn/coreServlet?uuid=25a725ef4e07472b8d4483408062f5fd
+
+
+AppSecret  :     ac9e07dad3445fed60aa7f3dc91e6d4d
+
+
